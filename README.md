@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **chal0060/chal0060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-
-## 🌱 Tech Stats
+### 🌱 Tech Stats
 <img alt="Python" src 
      ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="R" src
      ="https://img.shields.io/badge/R-239120.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="STATA" src 
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
                                                                                                                                 
 
 
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 <a href="[https://www.instagram.com/chal0060]" target="_blank"><img src="https://img.shields.io/badge/[instagram]-[E4405F]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
