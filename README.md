@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jaeyoung%20Ha&fontAlign=30&fontSize=30&desc=HRD%20Researcheer&descAlign=60&descAlignY=50)
-<img src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg" width=850 height="370">
-
 ### 🤔 Interest
 - Career development of worker
 - Workplace Planning
