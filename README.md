@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - Automation of Jobs
 - Career of middle & Old worker
 
+
 ### 🌱 Tech Stats : 
 <img alt="Python" src 
      ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="R" src
@@ -29,7 +30,8 @@ Here are some ideas to get you started:
    
 ### 📫 How to reach me: <a href="https://www.instagram.com/chal0060" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-
+### 👯 CV
+To be uploaded
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chal0060)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
