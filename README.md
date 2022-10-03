@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="[https://www.instagram.com/chal0060]" target="_blank"><img src="https://img.shields.io/badge/[instagram]-[E4405F]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
