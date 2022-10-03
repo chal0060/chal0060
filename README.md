@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - Middle and old worker
 
 ### 🌱 Tech Stats
-Tech that I've used at least once
+Tech that I've used at least once:
+
 <img alt="Python" src 
      ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="R" src
      ="https://img.shields.io/badge/R-239120.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="STATA" src 
