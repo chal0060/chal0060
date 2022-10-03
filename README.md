@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### 🤔 Interest
-- Career development of worker
+- Career development of Worker
 - Workplace Planning
 - Automation of Jobs
-- Career of middle * old worker
+- Career of middle & Old worker
 
 ### 🌱 Tech Stats : 
 <img alt="Python" src 
