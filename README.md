@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Career development of worker
 - Workplace Planning
 - Automation of Jobs
-- Middle and old worker
+- Career of middle * old worker
 
 ### 🌱 Tech Stats : 
 <img alt="Python" src 
