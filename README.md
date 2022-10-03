@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Jaeyoung%20Ha&fontSize=90)
-
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Jaeyoung%20Ha&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 <img width="150%" src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg"/>
 
 
