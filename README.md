@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jaeyoung%20Ha&fontAlign=30&fontSize=30&desc=HRD%20Researcheer&descAlign=60&descAlignY=50)
-<img width="150%" src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg"/>
+<img width="120%" src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg"/>
 
 
 ### 🌱 Tech Stats
