@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaeyoung%20Ha&fontSize=90)
 
+<img width="100%" src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg"/>
+
+
 ### 🌱 Tech Stats
+Tech that I've used at least once
 <img alt="Python" src 
      ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="R" src
      ="https://img.shields.io/badge/R-239120.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="STATA" src 
