@@ -1,8 +1,3 @@
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchal0060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  </div>
-
 ![reversal](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jaeyoung%20Ha&fontAlign=30&fontSize=30&desc=HRD%20Researcher&descAlign=60&descAlignY=50)
 
 <!--
@@ -37,3 +32,7 @@ Here are some ideas to get you started:
 
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chal0060)](https://github.com/anuraghazra/github-readme-stats)
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchal0060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  </div>
