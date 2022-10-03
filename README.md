@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaeyoung%20Ha&fontSize=90)
 
-<img width="120%" src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg"/>
+<img width="150%" src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg"/>
 
 
 ### 🌱 Tech Stats
