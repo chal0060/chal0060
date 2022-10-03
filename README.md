@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 ![reversal](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jaeyoung%20Ha&fontAlign=30&fontSize=30&desc=HRD%20Researcheer&descAlign=60&descAlignY=50)
 <img src="https://user-images.githubusercontent.com/60953487/193579213-86ceba2b-6235-4da8-a227-1cf8359ec783.jpg" width=850 height="370">
 
+### 🤔 Interest
+- Career development of worker
+- Workplace Planning
+- Automation of Jobs
+- Middle and old worker
 
 ### 🌱 Tech Stats
 Tech that I've used at least once
@@ -26,8 +31,7 @@ Tech that I've used at least once
      ="https://img.shields.io/badge/R-239120.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="STATA" src 
      ="https://img.shields.io/badge/STATA-7F52FF.svg?&style=for-the-badge&logo=STATA&logoColor=white"/>
    
-                                                                                                                                
-
-
 ### 📫 How to reach me: 
 <a href="[https://www.instagram.com/chal0060]" target="_blank"><img src="https://img.shields.io/badge/[instagram]-[E4405F]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chal0060)](https://github.com/anuraghazra/github-readme-stats)
