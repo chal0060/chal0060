@@ -24,16 +24,12 @@ Here are some ideas to get you started:
 - Automation of Jobs
 - Middle and old worker
 
-### 🌱 Tech Stats
-Tech that I've used at least once:
-
-<img alt="Python" src 
+### 🌱 Tech Stats : ech that I've used at least once: <img alt="Python" src 
      ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="R" src
      ="https://img.shields.io/badge/R-239120.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="STATA" src 
      ="https://img.shields.io/badge/STATA-7F52FF.svg?&style=for-the-badge&logo=STATA&logoColor=white"/>
    
-### 📫 How to reach me: 
-<a href="https://www.instagram.com/chal0060" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+### 📫 How to reach me: <a href="https://www.instagram.com/chal0060" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chal0060)](https://github.com/anuraghazra/github-readme-stats)
