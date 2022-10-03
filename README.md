@@ -38,6 +38,5 @@ Tech that I've used at least once:
 ### 📫 How to reach me: 
 <a href="https://www.instagram.com/chal0060" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-  <div align=center>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chal0060)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chal0060)](https://github.com/anuraghazra/github-readme-stats)
